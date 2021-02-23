@@ -38,6 +38,11 @@ This theme is maintained by the following person(s) and a bunch of [awesome cont
 | ---------------------------------------------------------------------------------------------------- |
 | [Gabriel Caussi](https://github.com/gabrielcaussi)                                                   |
 
+
+| [![Matheus Pessanha](https://github.com/Mdsp9070.png?size=100)](https://github.com/Mdsp9070) |
+| -------------------------------------------------------------------------------------------- |
+| [Matheus Pessanha](https://github.com/Mdsp9070)                                              |
+
 ## License
 
 [MIT License](./LICENSE.md)
