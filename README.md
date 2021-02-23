@@ -34,14 +34,9 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/kitty/graphs/contributors).
 
-| [![Gabriel Caussi](https://github.com/gabrielcaussi.png?size=100)](https://github.com/gabrielcaussi) |
-| ---------------------------------------------------------------------------------------------------- |
-| [Gabriel Caussi](https://github.com/gabrielcaussi)                                                   |
-
-
-| [![Matheus Pessanha](https://github.com/Mdsp9070.png?size=100)](https://github.com/Mdsp9070) |
-| -------------------------------------------------------------------------------------------- |
-| [Matheus Pessanha](https://github.com/Mdsp9070)                                              |
+| [![Gabriel Caussi](https://github.com/gabrielcaussi.png?size=100)](https://github.com/gabrielcaussi) | [![Matheus Pessanha](https://github.com/Mdsp9070.png?size=100)](https://github.com/Mdsp9070) |
+| ---------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| [Gabriel Caussi](https://github.com/gabrielcaussi)                                                   | [Matheus Pessanha](https://github.com/Mdsp9070)                                              |
 
 ## License
 
